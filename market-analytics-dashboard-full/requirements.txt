@@ -1,0 +1,10 @@
+pandas
+numpy
+yfinance
+alpha_vantage
+fredapi
+matplotlib
+plotly
+streamlit
+requests
+openpyxl
